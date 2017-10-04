@@ -4,4 +4,4 @@ def display_rainbow(colors)
 end
 
 colorRed = 'red'
-print colorRed[0].upperCase
+print colorRed[0].upperCase()
